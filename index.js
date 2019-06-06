@@ -6,4 +6,3 @@ function upperCaseCustomerName() {
   return capitalize;
 }
 
-return customerName
